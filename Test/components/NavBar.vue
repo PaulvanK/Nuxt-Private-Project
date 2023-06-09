@@ -17,6 +17,15 @@
       with color codes 27374D (dark), 526D82 (a bit lighter), 9DB2BF (almost
       lightest), DDE6ED (lightest color)
     </p>
+    <br />
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam totam
+      porro neque accusamus, at quibusdam eaque cupiditate quidem, unde expedita
+      iste placeat et, labore accusantium veniam qui debitis rerum! Hic fuga
+      illum culpa saepe unde, dignissimos tenetur, non ipsum nobis quo adipisci
+      corporis nam nisi! Tenetur magni possimus sit excepturi?
+    </p>
+    <i class="fa-solid fa-user"></i>
   </div>
 </template>
 
