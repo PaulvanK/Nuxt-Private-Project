@@ -3,9 +3,13 @@
     <div class="navbar navbar-expand-lg navbar-css">
       <div class="header">
         <div class="row">
-          <div class="col text-start"></div>
-          <div class="col text-center"></div>
-          <div class="col text-end"></div>
+          <div class="col-md-4 text-start"></div>
+          <div class="col-md-4 text-center"></div>
+          <div class="col-md-4 text-end">
+            <div class="right-col">
+              <i class="fa-solid fa-bars"></i>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -25,7 +29,6 @@
       illum culpa saepe unde, dignissimos tenetur, non ipsum nobis quo adipisci
       corporis nam nisi! Tenetur magni possimus sit excepturi?
     </p>
-    <i class="fa-solid fa-user"></i>
   </div>
 </template>
 
