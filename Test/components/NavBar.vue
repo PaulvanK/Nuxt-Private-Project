@@ -3,7 +3,7 @@
     <div class="row">
       <div class="btn btn-danger">Hallo</div>
     </div>
-    <div class="navbar"></div>
+    <div class="navbar">Look ma, no hands!</div>
   </body>
 </template>
 
